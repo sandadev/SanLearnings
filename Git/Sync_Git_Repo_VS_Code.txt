@@ -1,0 +1,6 @@
+ press - Ctrl+Shift+p
+ select - Git: Clone
+ paste remote repo 
+ select local repo folder
+
+ 
