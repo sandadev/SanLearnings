@@ -1,1 +1,20 @@
-Test this intro for js fike
+What is Javascript :
+
+1.Javascript is a lightweight,cross-platform and object oriented programming language.
+    a.lightweight- it will doesn't eat up much memory and it have relatively simple syntax and features.
+    b.cross-platform- which can be used in multiple platforms and systems not just for web development.
+    c.Object oriented : it a language based on object.
+
+2. Javascript is one of the three core technology in web development.    
+
+3. Today Javascript can use in different places.
+    a.Client-Side:Javascript traditionally only used in browser.
+    b.Server-Side :Using node js Javascript can be used at server side.
+
+4. Javascript is what made modern web development possible.
+    a.Dynamic effects and interactivity.
+    b.Modern web application that we can interact with
+    c.It is also used to develop complex we application.
+***
+5. Frameworks/Libraries like React and Angular are 100% based on Javascript you need to be master in Javascript in order to use them.
+
