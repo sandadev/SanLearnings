@@ -23,7 +23,10 @@ var name ='jhon' -- valid
 var age=20 ---- valid
 var isEmployee =true ---- valid
 
-note : 
+note :
+
+if we want to declare a variable has below need to be add _ or $ it will work
+
 var 3years =3 -----not valid
 var _3years=3 ----- valid
 var $3years =3 ----- valid
