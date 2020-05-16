@@ -1,0 +1,31 @@
+Variable and Datatype:
+=========================
+
+Variable : Its a container in which we can store a value in order to use it over and over 
+to use the value.
+
+ex:-var firstName ='Jhon';
+
+Different Datatype in Javascript
+=================================
+
+Number : Floating point numbers,for decimal and integers.
+String : Sequence of character user for text.
+Boolean: Logical datatypes that can be a true and false.
+Undefined:Datatype of a Variable that doesn't have a value yet.
+Null: Also means non-existent.
+
+Number will have always decimal ex: Number i=5; 5.0
+
+Javascript always have a dynamic typing.
+
+var name ='jhon' -- valid
+var age=20 ---- valid
+var isEmployee =true ---- valid
+
+note : 
+var 3years =3 -----not valid
+var _3years=3 ----- valid
+var $3years =3 ----- valid
+
+
