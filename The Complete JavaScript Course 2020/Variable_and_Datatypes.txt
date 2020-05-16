@@ -15,9 +15,9 @@ Boolean: Logical datatypes that can be a true and false.
 Undefined:Datatype of a Variable that doesn't have a value yet.
 Null: Also means non-existent.
 
-Number will have always decimal ex: Number i=5; 5.0
+*** Number will have always decimal ex: Number i=5; 5.0
 
-Javascript always have a dynamic typing.
+*** Javascript always have a dynamic typing.
 
 var name ='jhon' -- valid
 var age=20 ---- valid
